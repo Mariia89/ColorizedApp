@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "998577CB-3CBC-4FF7-B7DF-819C9B43CF2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36DB0D99-8FB1-49A9-AA50-57F26C4E73FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "36DB0D99-8FB1-49A9-AA50-57F26C4E73FE - 6ebbca211d91d931"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "36DB0D99-8FB1-49A9-AA50-57F26C4E73FE - 6dcaa37435bbbd25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "36DB0D99-8FB1-49A9-AA50-57F26C4E73FE - 6062985c8157be36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "36DB0D99-8FB1-49A9-AA50-57F26C4E73FE - c482761d07fe35a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "36DB0D99-8FB1-49A9-AA50-57F26C4E73FE - d6fc4989219a5a3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ColorizedApp.ViewController"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "36DB0D99-8FB1-49A9-AA50-57F26C4E73FE - 742af39acfa4dd56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ColorizedApp.ViewController&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE38E66B-1BFB-4784-97CE-C06AEE516A39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "sliderAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC42B27-D1F7-4E34-85AD-E8787EC44EA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9AC42B27-D1F7-4E34-85AD-E8787EC44EA4 - b1d4d39dc309b0d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.redLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9AC42B27-D1F7-4E34-85AD-E8787EC44EA4 - 1632569f17f40cc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.redLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "9AC42B27-D1F7-4E34-85AD-E8787EC44EA4 - 55101c20ab9a11d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.redLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9AC42B27-D1F7-4E34-85AD-E8787EC44EA4 - 96ce80f03b1ba09e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.redLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9AC42B27-D1F7-4E34-85AD-E8787EC44EA4 - d6fc4989219a5bfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ColorizedApp.ViewController"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "9AC42B27-D1F7-4E34-85AD-E8787EC44EA4 - 742af39acfa4dc94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ColorizedApp.ViewController&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C068A1F-5C4E-4C72-99D3-FCEC0ED20057"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF879B5A-BB6F-4898-9C32-81166CAAAD32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "450E64AB-3B18-4BDB-99FA-7B1AAB174B3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58DFACA0-1DD6-4CE1-B186-2AA61C44596D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9E38BF2-C419-44FB-8D9F-61A2D7D92279"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "sliderAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7936455D-176D-4BB7-B90F-F15A417D6ACD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7936455D-176D-4BB7-B90F-F15A417D6ACD - 6ebbca211d91d931"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7936455D-176D-4BB7-B90F-F15A417D6ACD - 6dcaa37435bbbd25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "7936455D-176D-4BB7-B90F-F15A417D6ACD - 6062985c8157be36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7936455D-176D-4BB7-B90F-F15A417D6ACD - c482761d07fe35a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.mainView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7936455D-176D-4BB7-B90F-F15A417D6ACD - d6fc4989219a5a3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ColorizedApp.ViewController"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "7936455D-176D-4BB7-B90F-F15A417D6ACD - 742af39acfa4dd56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ColorizedApp.ViewController&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D082322-B31A-4745-B2C4-2EB6C47CBD37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorizedApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6D082322-B31A-4745-B2C4-2EB6C47CBD37 - d6fc4989219a5a3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ColorizedApp.ViewController"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "6D082322-B31A-4745-B2C4-2EB6C47CBD37 - 742af39acfa4dd56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorizedApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ColorizedApp.ViewController&gt;"
+                  moduleName = "ColorizedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariachudakova/Documents/projects/ColorizedApp/ColorizedApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
